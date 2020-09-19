@@ -20,11 +20,11 @@
  2.3. t Transverse mass
   - [PyROOT_ttbarreconstruction.py](https://github.com/groupKNUPHY/TTBar/blob/master/PyROOT_ttbarreconstruction.py)
   
-  Running Method: *.py /input/your/root_file/path/*.root
+  Running Method: (code).py /input/your/root_file/path/(input).root
 
 
 
 3. Draw histogram 
  - [makehist_simple.py](https://github.com/groupKNUPHY/TTBar/blob/master/makehist_simple.py)
 
-  Running Method: *.py
+  Running Method: (code).py
