@@ -66,9 +66,9 @@ for entry in range(0, numberOfEntries):
 		if a.PID == -12:
 			v.SetPxPyPzE(a.Px, a.Py, a.Pz, a.E)
 
-			histLorentz.Fill(np.sqrt(2*(e.Et())*(v.Et())*(1.0-np.cos(abs((e.Phi())-(v.Phi()))))))
+	histLorentz.Fill(np.sqrt(2*(e.Et())*(v.Et())*(1.0-np.cos(abs((e.Phi())-(v.Phi()))))))
 
-			histCosine.Fill(np.sqrt(2*((e.Et())*(v.Et())-((e.Px())*(v.Px())+(e.Py())*(v.Py())))))
+	histCosine.Fill(np.sqrt(2*((e.Et())*(v.Et())-((e.Px())*(v.Px())+(e.Py())*(v.Py())))))
 
 
 
