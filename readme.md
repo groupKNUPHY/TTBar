@@ -25,8 +25,15 @@ python [code.py] [input.root]
   - [PyROOT_ttbarreconstruction.py](https://github.com/groupKNUPHY/TTBar/blob/master/PyROOT_ttbarreconstruction.py)
   
 
+3. Detector level analysis
 
-3. Draw histogram 
+```bash
+python [code.py] [input.root]
+
+ 3.1 b jet
+  - [PyROOT_bjet.py](https://github.com/groupKNUPHY/TTBar/blob/master/PyROOT_bjet.py)
+
+4. Draw histogram 
 
 ```bash
 python [code.py]
