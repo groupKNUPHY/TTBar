@@ -19,8 +19,8 @@ python [code.py] [input.root]
   - [PyROOT_example1.py](https://github.com/groupKNUPHY/TTBar/blob/master/PyROOT_example1.py)
 
  2.2. W Transverse mass
-  - [PyROOT_TVmass.py](https://github.com/groupKNUPHY/TTBar/blob/master/PyROOT_TVmass.py)
-  
+  - using PyROOT [PyROOT_TVmass.py](https://github.com/groupKNUPHY/TTBar/blob/master/PyROOT_TVmass.py)
+  - using uproot [uproot_wmass.py](https://github.com/groupKNUPHY/TTBar/blob/master/uproot_wmass.py)
  2.3. t Transverse mass
   - [PyROOT_ttbarreconstruction.py](https://github.com/groupKNUPHY/TTBar/blob/master/PyROOT_ttbarreconstruction.py)
   
