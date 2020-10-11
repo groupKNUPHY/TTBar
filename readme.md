@@ -34,7 +34,7 @@ python [code.py] [input.root]
 
  3.1 b jet
   - using PyROOT [PyROOT_bjet.py](https://github.com/groupKNUPHY/TTBar/blob/master/PyROOT_bjet.py)
-  - using uproot [uproot_bjet.py](https://github.com/groupKNUPHY/TTBar/blob/master/uproot_bjet.py)
+  - using uproot [uproot_bjet_v2.py](https://github.com/groupKNUPHY/TTBar/blob/master/uproot_bjet_v2.py)
 
 4. Draw histogram 
 
